@@ -8,6 +8,6 @@ To run the code, make sure the latest python version is installed along with the
 
 Also create a .env file and add the following to it for using email service. 
 
-GOOGLE_PASSWORD = '<YourPasswordHere>'
+GOOGLE_PASSWORD = 'YourPasswordHere'
   
 Then run the code simply using python app.py
